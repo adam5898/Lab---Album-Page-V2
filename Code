@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lab - Album Page V2</title>
+    </head>
+<body>
+    <br/>
+   <center><img src="https://is4-ssl.mzstatic.com/image/thumb/Music/a8/30/b4/mzi.vlwccqon.jpg/1200x630bb.jpg" style="width: 200px;"></center>
+     <br/>
+     <center><h1>Renegades</h1></center>
+     <center><a href="http://www.ratm.com/" target="_blank"><h2>Rage Against the Machine</h2></center></a>
+    <center><h3>Released: 12/05/2000</h3></center>
+    <hr/>
+    <center><h2>Band Members and Producers</h2></center>
+<ul>
+    <li>Zach de la Rocha - Vocals</li>
+    <li>Tom Morello - Guitar</li>
+    <li>Tim Commerford - Bass Guitar</li>
+    <li>Brad Wilk - Drums</li>
+    <li>Produced by Rick Rubin</li>
+</ul>
+<center><caption>Tracks</caption></center>
+<center><table border="1" width="80%">
+    <tr bgcolor="grey">
+        <th>Track #</th>
+        <th>Track Title</th>
+        <th>Track Length</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Microphone Fiend</td>
+        <td>5:01</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Pistol Grip Pump</td>
+        <td>3:18</td>  
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Kick Out the Jams</td>
+        <td>3:11</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Renegades of Funk</td>
+        <td>4:35</td>
+    </tr>
+</table></center>
+</body>
+</html>
